@@ -1,0 +1,9 @@
+name: "crossborder-birds-and-forestry"
+output_dir: "."
+navbar:
+  title: "Project Website"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
