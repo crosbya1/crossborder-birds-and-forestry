@@ -1,9 +1,15 @@
-name: "crossborder-birds-and-forestry"
+name: "Bird-friendly Forest Management in the Upper Great Lakes"
+output:  
+  html_document:  
+ #   self_contained: no  
+  #  theme: flatly output_dir: "."
 output_dir: "."
 navbar:
-  title: "Project Website"
-  left:
+  title: "ABC-BAM-SFI Cross-border Bird Conservation Initiative"
+  right:
     - text: "Home"
       href: index.html
     - text: "About"
       href: about.html
+  
+ 
